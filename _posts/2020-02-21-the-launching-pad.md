@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: The Launching Pad
 author: Chris
 layout: post
 ---
