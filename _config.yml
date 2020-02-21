@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mental Might
-subtitle: Enhancing your mental fitness by helping you shape your mindset, attitude, and belief system so that you can live a balanced, more enjoyable, and more fulfilling life. 
+subtitle: 
 description: 
 author: Chris Batu
 email: mentalmightorg@gmail.com
