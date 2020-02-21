@@ -1,9 +1,9 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Resouces
+subtitle: A list of useful resources that you can add to your toolbox
 layout: "page"
-icon: fa-book
-order: 3
+icon: fa-toolbox
+order: 4
 ---
 
 I love books! Here are some I'm reading now:
