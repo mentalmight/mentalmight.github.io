@@ -6,7 +6,7 @@ icon: fa-toolbox
 order: 4
 ---
 
-Here is an ever growing list of books, podcasts, websites, etc. that I have found useful in developing my own Mental Might. I will continually be adding to this list as I am exposed to more resources in my own learning and through the community. I encourage you to submit resources of your own <a href="https://mentalmight.github.io/#contact">here</a>.
+Here is an ever growing list of books, podcasts, websites, etc. that I have found useful in developing my own Mental Might. I will add to this list continually as I am exposed to more resources in my own learning and through the community. I encourage you to submit resources of your own <a href="https://mentalmight.github.io/#contact">here</a>.
 
 Podcasts (available through most podcast apps):<br>
 <a href="https://johnmaxwellleadershippodcast.com/">The John Maxwell Leadership Podcast</a><br>
